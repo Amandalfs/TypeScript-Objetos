@@ -4,7 +4,8 @@
   "description": "Claro! Aqui está um exemplo de como converter a lista em um arquivo README.md com um checklist para cada exercício:",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "tsx watch 01/ex1.ts"
   },
   "repository": {
     "type": "git",
