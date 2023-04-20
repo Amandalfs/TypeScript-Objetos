@@ -1,0 +1,23 @@
+{
+  "name": "typescript-objetos",
+  "version": "1.0.0",
+  "description": "Claro! Aqui está um exemplo de como converter a lista em um arquivo README.md com um checklist para cada exercício:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amandalfs/TypeScript-Objetos.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Amandalfs/TypeScript-Objetos/issues"
+  },
+  "homepage": "https://github.com/Amandalfs/TypeScript-Objetos#readme",
+  "dependencies": {
+    "tsx": "^3.12.6",
+    "typescript": "^5.0.4"
+  }
+}
