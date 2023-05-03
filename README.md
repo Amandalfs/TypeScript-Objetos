@@ -8,7 +8,7 @@ Para cada exercício, você deve criar uma interface para representar o objeto d
 
 ## Exercício 1: Objeto de usuário
 
-- [ ] Crie uma interface para representar um objeto de usuário com os campos "nome", "email" e "senha".
+- [x] Crie uma interface para representar um objeto de usuário com os campos "nome", "email" e "senha".
 
 ## Exercício 2: Soma de valores
 
