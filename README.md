@@ -32,11 +32,11 @@ Para cada exercício, você deve criar uma interface para representar o objeto d
 
 ## Exercício 7: Objeto de produto
 
-- [ ] Crie uma interface para representar um objeto de produto com os campos "nome", "descrição", "preço" e "quantidade em estoque".
+- [] Crie uma interface para representar um objeto de produto com os campos "nome", "descrição", "preço" e "quantidade em estoque".
 
 ## Exercício 8: Multiplicação de valores
 
-- [ ] Crie uma função que recebe um objeto com as propriedades "número1" e "número2" (ambas do tipo number) e retorne a multiplicação desses valores.
+- [x] Crie uma função que recebe um objeto com as propriedades "número1" e "número2" (ambas do tipo number) e retorne a multiplicação desses valores.
 
 ## Exercício 9: Objeto de cliente
 
