@@ -16,7 +16,7 @@ Para cada exercício, você deve criar uma interface para representar o objeto d
 
 ## Exercício 3: Objeto de postagem
 
-- [ ] Crie uma interface para representar um objeto de postagem em um blog com os campos "título", "autor", "conteúdo" e "data de publicação".
+- [x] Crie uma interface para representar um objeto de postagem em um blog com os campos "título", "autor", "conteúdo" e "data de publicação".
 
 ## Exercício 4: Mensagem personalizada
 
