@@ -24,7 +24,7 @@ Para cada exercício, você deve criar uma interface para representar o objeto d
 
 ## Exercício 5: Objeto de endereço
 
-- [ ] Crie uma interface para representar um objeto de endereço com os campos "logradouro", "número", "complemento", "bairro", "cidade", "estado" e "CEP".
+- [x] Crie uma interface para representar um objeto de endereço com os campos "logradouro", "número", "complemento", "bairro", "cidade", "estado" e "CEP".
 
 ## Exercício 6: Mensagem de boas-vindas
 
