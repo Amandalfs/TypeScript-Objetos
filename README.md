@@ -20,7 +20,7 @@ Para cada exercício, você deve criar uma interface para representar o objeto d
 
 ## Exercício 4: Mensagem personalizada
 
-- [ ] Crie uma função que recebe um objeto com as propriedades "idade" e "nome" (ambas do tipo string) e retorne uma mensagem personalizada de saudação, usando o nome e a idade fornecidos.
+- [x] Crie uma função que recebe um objeto com as propriedades "idade" e "nome" (ambas do tipo string) e retorne uma mensagem personalizada de saudação, usando o nome e a idade fornecidos.
 
 ## Exercício 5: Objeto de endereço
 
