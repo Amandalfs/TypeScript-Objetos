@@ -12,7 +12,7 @@ Para cada exercício, você deve criar uma interface para representar o objeto d
 
 ## Exercício 2: Soma de valores
 
-- [ ] Crie uma função que recebe um objeto com as propriedades "valor1" e "valor2" (ambas do tipo number) e retorne a soma desses valores.
+- [x] Crie uma função que recebe um objeto com as propriedades "valor1" e "valor2" (ambas do tipo number) e retorne a soma desses valores.
 
 ## Exercício 3: Objeto de postagem
 
