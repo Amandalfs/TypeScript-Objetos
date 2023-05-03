@@ -32,7 +32,7 @@ Para cada exercício, você deve criar uma interface para representar o objeto d
 
 ## Exercício 7: Objeto de produto
 
-- [] Crie uma interface para representar um objeto de produto com os campos "nome", "descrição", "preço" e "quantidade em estoque".
+- [x] Crie uma interface para representar um objeto de produto com os campos "nome", "descrição", "preço" e "quantidade em estoque".
 
 ## Exercício 8: Multiplicação de valores
 
