@@ -36,7 +36,7 @@ Para cada exercício, você deve criar uma interface para representar o objeto d
 
 ## Exercício 9: Objeto de cliente
 
-- [ ] Crie uma interface para representar um objeto de cliente com os campos "nome", "email", "telefone" e "endereço".
+- [x] Crie uma interface para representar um objeto de cliente com os campos "nome", "email", "telefone" e "endereço".
 
 
 
