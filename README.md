@@ -26,10 +26,6 @@ Para cada exercício, você deve criar uma interface para representar o objeto d
 
 - [x] Crie uma interface para representar um objeto de endereço com os campos "logradouro", "número", "complemento", "bairro", "cidade", "estado" e "CEP".
 
-## Exercício 6: Mensagem de boas-vindas
-
-- [ ] Crie uma função que recebe um objeto com as propriedades "nome" (string) e "idade" (number) e retorne uma mensagem personalizada de boas-vindas que inclua o nome e a idade fornecidos.
-
 ## Exercício 7: Objeto de produto
 
 - [x] Crie uma interface para representar um objeto de produto com os campos "nome", "descrição", "preço" e "quantidade em estoque".
@@ -42,9 +38,7 @@ Para cada exercício, você deve criar uma interface para representar o objeto d
 
 - [ ] Crie uma interface para representar um objeto de cliente com os campos "nome", "email", "telefone" e "endereço".
 
-## Exercício 10: Mensagem de cumprimento
 
-- [ ] Crie uma função que recebe um objeto com as propriedades "nome" (string) e "sobrenome" (string) e retorne uma mensagem personalizada de cumprimento que inclua o nome completo fornecido. 
 
 Você pode marcar cada exercício à medida que avança, usando [x] para indicar que você completou o exercício.
 
